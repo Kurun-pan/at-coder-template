@@ -5,6 +5,7 @@
 #include<algorithm>//sort,二分探索,など
 #include<bitset>//固定長bit集合
 #include<chrono>//実行時間計測
+#include<climits>//INT_MAXなど
 #include<cmath>//pow,logなど
 #include<complex>//複素数
 #include<deque>//両端アクセスのキュー
