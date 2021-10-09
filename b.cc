@@ -13,6 +13,7 @@
 #include<iomanip>//setprecision(浮動小数点の出力の誤差)
 #include<iostream>//入出力
 #include<iterator>//集合演算(積集合,和集合,差集合など)
+#include<list>
 #include<map>//map(辞書)
 #include<numeric>//iota(整数列の生成),gcdとlcm,accumulate
 #include<queue>//キュー
