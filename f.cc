@@ -32,7 +32,7 @@ signed main(){
   ll N, X;
   cin >> N >> X;
 
-  vector<int> A(N);
+  vector<ll> A(N);
   for (auto& x : A) cin >> x;
 
 
