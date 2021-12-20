@@ -35,7 +35,18 @@ signed main(){
   vector<ll> A(N);
   for (auto& x : A) cin >> x;
 
+  ll H, W;
+  cin >> H >> W;
 
+  vector<vector<char>> C(H, vector<char>(W));
+  for (auto& v : C) {
+    for (auto& c : v) {
+      cin >> c;
+    }
+  }
+
+  cout << "Yes" << endl;
+  cout << "No" << endl;
 
   return 0;
 }
